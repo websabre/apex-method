@@ -1,9 +1,5 @@
-# ADR-XXXX
-
-## Status
+# ADR Template
 
 ## Context
-
 ## Decision
-
 ## Consequences

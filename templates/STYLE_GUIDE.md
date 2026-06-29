@@ -1,8 +1,6 @@
-# APEX Editorial Style Guide
+# Editorial Style Guide
 
-## Principles
-- Why before How
-- Business before Technology
-- Principles before Products
-- 70% timeless, 30% technology
-- Every chapter follows the chapter template.
+- Principles before products
+- Business before technology
+- Why before how
+- 70% timeless / 30% technology

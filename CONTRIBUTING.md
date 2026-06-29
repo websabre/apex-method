@@ -1,3 +1,3 @@
 # Contributing
 
-Use feature branches, pull requests, reviews and follow the style guide.
+Use feature branches, PRs and reviews.

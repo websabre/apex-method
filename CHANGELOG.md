@@ -1,4 +1,4 @@
 # Changelog
 
-## v0.3.0
-- Initial repository foundation.
+## v0.5.0
+Initial repository architecture.

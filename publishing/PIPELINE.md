@@ -1,3 +1,2 @@
-# Publishing Pipeline
-
+# Pipeline
 Markdown -> Review -> DOCX -> PDF -> Website -> Release

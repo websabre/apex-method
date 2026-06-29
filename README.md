@@ -2,18 +2,20 @@
 
 > The Complete Solution Architect Handbook
 
-![Version](https://img.shields.io/badge/version-v0.3.0-blue)
-
 ## Vision
-Build the world's most comprehensive engineering-driven curriculum for Solution Architects.
+Build the world's most comprehensive engineering-driven Solution Architect curriculum.
 
-## Repository Structure
-- docs/
-- assets/
-- templates/
-- rideflow/
+## Repository Layout
+
+- manuscript/
 - workbook/
 - interview-guide/
+- portfolio/
+- rideflow/
+- assets/
+- templates/
 - adr/
+- publishing/
+- website/
 
-See ROADMAP.md to begin.
+Markdown is the single source of truth.
